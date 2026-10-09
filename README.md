@@ -15,4 +15,8 @@ Konflikt 123
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
+<<<<<<< HEAD
 neuer konflikt
+=======
+Konflikt 321
+>>>>>>> 129c7da (Konflikt 2)
